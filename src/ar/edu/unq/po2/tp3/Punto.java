@@ -6,7 +6,7 @@ public class Punto {
 	
 	public Punto(float x, float y) {
 		super();
-		this.setXY(x,y)
+		this.setXY(x,y);
 	}
 	
 	
